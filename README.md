@@ -13,9 +13,9 @@ This theme aims to be easy to configure and change. If you want to edit the gtk3
 For the gtk2 theme you'll have to edit the `gtkrc` file. Both gtk2 and gtk3 have an `assets.svg` file for the images.
 
 There are only a few colors which have been used in the creation of this theme, these are:
- * `#1b1b1b` as primary background color
- * `#262626` as secondary background color
- * `#9e9e9e` as primary foreground color
+ * `#181818` as primary background color
+ * `#282828` as secondary background color
+ * `#aaaaaa` as primary foreground color
  * `#616161` as secondary foreground color
  * `#752a2a` as highlight color
 
