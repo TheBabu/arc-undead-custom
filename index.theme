@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Undead
+Name=Arc-Undead-Custom
 Comment=An actual dark version of the Arc Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Undead
-MetacityTheme=Arc-Undead
+GtkTheme=Arc-Undead-Custom
+MetacityTheme=Arc-Undead-Custom
 IconTheme=gnome
-CursorTheme=DMZ-Black
+CursorTheme=DMZ-White
 ButtonLayout=menu:minimize,maximize,close
