@@ -31,7 +31,7 @@
     background-color: #020202;
     color: #d0d0d0; }
   .gtkstyle-fallback:disabled {
-    background-color: #202020;
+    background-color: #222222;
     color: rgba(158, 158, 158, 0.45); }
   .gtkstyle-fallback:selected {
     background-color: #4278b7;
@@ -248,7 +248,7 @@ button {
   padding: 2px 6px;
   color: #d0d0d0;
   border-color: #222222;
-  background-color: #202020; }
+  background-color: #222222; }
   button separator {
     margin: 4px 1px; }
   button.flat, button.sidebar-button {
@@ -472,7 +472,7 @@ button {
 .inline-toolbar toolbutton > button {
   color: #d0d0d0;
   border-color: #222222;
-  background-color: #202020; }
+  background-color: #222222; }
   .inline-toolbar toolbutton > button:hover {
     color: #d0d0d0;
     border-color: #222222;
@@ -894,7 +894,7 @@ toolbar, .inline-toolbar {
   border-image: linear-gradient(to bottom, #282828, #090909) 1 0 1 0; }
 
 .inline-toolbar {
-  background-color: #202020;
+  background-color: #222222;
   border-style: solid;
   border-color: #222222;
   border-width: 0 1px 1px;
@@ -911,7 +911,7 @@ searchbar {
 actionbar {
   padding: 6px;
   border-top: 1px solid #222222;
-  background-color: #202020; }
+  background-color: #222222; }
 
 headerbar,
 .titlebar:not(headerbar) {
@@ -2561,7 +2561,7 @@ filechooserbutton:drop(active) {
 
 .sidebar {
   border-style: none;
-  background-color: #202020; }
+  background-color: #222222; }
   stacksidebar.sidebar:dir(ltr) list,
   stacksidebar.sidebar.left list,
   stacksidebar.sidebar.left:dir(rtl) list, .sidebar:dir(ltr), .sidebar.left, .sidebar.left:dir(rtl) {
@@ -2811,7 +2811,7 @@ colorswatch#add-color-button {
   border-width: 1px;
   color: #d0d0d0;
   border-color: #222222;
-  background-color: #202020; }
+  background-color: #222222; }
   colorswatch#add-color-button:hover {
     color: #d0d0d0;
     border-color: #222222;
@@ -3082,7 +3082,7 @@ popover.background label.nautilus-canvas-item.separator, headerbar .nautilus-can
     background-color: rgba(66, 120, 183, 0.8);
     border-color: rgba(72, 21, 21, 0.8); }
   .disk-space-display.free {
-    background-color: #202020;
+    background-color: #222222;
     border-color: black; }
 
 @keyframes needs_attention_keyframes {
@@ -3216,7 +3216,7 @@ popover.background label.nautilus-canvas-item.separator, headerbar .nautilus-can
   background-color: #282828; }
 
 .gedit-search-slider {
-  background-color: #202020;
+  background-color: #222222;
   padding: 6px;
   border-color: #222222;
   border-radius: 0 0 2px 2px;
@@ -3985,7 +3985,7 @@ GtkListBox .h4 {
 #content_frame button {
   color: #d0d0d0;
   border-color: #222222;
-  background-color: #202020; }
+  background-color: #222222; }
   #content_frame button:hover {
     color: #d0d0d0;
     border-color: #222222;
@@ -4292,7 +4292,7 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color base_color #282828;
 @define-color selected_bg_color #4278b7;
 @define-color selected_fg_color #282828;
-@define-color insensitive_bg_color #202020;
+@define-color insensitive_bg_color #222222;
 @define-color insensitive_fg_color alpha(#d0d0d0, 0.5);
 @define-color insensitive_base_color #282828;
 @define-color theme_unfocused_fg_color #d0d0d0;
