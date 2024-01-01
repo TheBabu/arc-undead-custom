@@ -32,7 +32,6 @@ After changing anything, you'll have to reinstall the theme using the `install.s
 ## Screenshots
 
 ### GTK3
-![Screenshot_2023-12-31_13-51-47](https://github.com/TheBabu/arc-undead-custom/assets/24832107/baa2cbca-2b3c-4886-8ec6-b5b9b3c686de)
-![Screenshot_2023-12-31_13-52-00](https://github.com/TheBabu/arc-undead-custom/assets/24832107/6d3a1bae-20c3-49fd-9818-8617be42e770)
-![Screenshot_2023-12-31_13-52-11](https://github.com/TheBabu/arc-undead-custom/assets/24832107/8cfe1b7a-a36b-49a8-83ac-429188046231)
-
+![Screenshot_2024-01-01_09-48-25](https://github.com/TheBabu/arc-undead-custom/assets/24832107/20e956b6-23c9-4c86-8972-e034a96099fa)
+![Screenshot_2024-01-01_09-48-33](https://github.com/TheBabu/arc-undead-custom/assets/24832107/79bafd62-c890-4cbf-a34b-7e25bcb0c1ec)
+![Screenshot_2024-01-01_09-48-43](https://github.com/TheBabu/arc-undead-custom/assets/24832107/779aca56-cdc1-4d23-9274-1a4698a36370)
